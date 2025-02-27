@@ -8,7 +8,7 @@ import { Footer } from "./Footer";
 //create your first component
 const Home = () => {
 	return (
-		<div className="container">
+		<div className="container-fluid">
             <Navbar/>
 			<Jumbotron/>
 			<Card/>
